@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ListMaker</string>
+    <string name="custom_recyclerview">Custom Recyclerview</string>
+    <string name="custom_listview">Custom ListView</string>
+    <string name="simple_listview">Simple ListView</string>
+    <string name="listmaker">ListMaker</string>
 </resources>
